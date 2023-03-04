@@ -10,12 +10,12 @@ This program is free software: you can redistribute it and/or modify it under th
 Please, report any bugs to the Authors listed in the Contacts.
 
 The repository contains the following code:
-1) [syEGG.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG.m) - software code (GNU Octave function) that generates synthetic electrogastrogram (EGG) timeseries based on method described in [1] that is derived from parameters calculated on data available in [[2](https://doi.org/10.1515/bmt-2017-0218)-[3](https://doi.org/10.5281/zenodo.3730617)])
-2) [syEGG_VR.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG_VR.m) - software code (GNU Octave function) that generates altered EGG timeseries in the presence of simulator sickness, the method is fully described in [1]
-3) [paper_figs.m](https://github.com/NadicaSm/syEGG/blob/main/paper_figs.m) - software code (GNU Octave code) for reproducibility of figures presented in [1], it uses syEGG.m, syEGG_VR.m, and ID18_postprandial.txt
+1) [syEGG.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG.m) - software code (GNU Octave function) that generates synthetic electrogastrogram (EGG) timeseries based on method described in [2] that is derived from parameters calculated on data available in [[3](https://doi.org/10.1515/bmt-2017-0218)-[4](https://doi.org/10.5281/zenodo.3730617)])
+2) [syEGG_VR.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG_VR.m) - software code (GNU Octave function) that generates altered EGG timeseries in the presence of simulator sickness, the method is fully described in [2]
+3) [paper_figs.m](https://github.com/NadicaSm/syEGG/blob/main/paper_figs.m) - software code (GNU Octave code) for reproducibility of figures presented in [2], it uses syEGG.m, syEGG_VR.m, and ID18_postprandial.txt
 
 ### Data
-1) [ID18_postprandial.txt](https://github.com/NadicaSm/syEGG/blob/main/ID18_postprandial.txt) - sample data from the EGG database [[2](https://doi.org/10.1515/bmt-2017-0218)-[3](https://doi.org/10.5281/zenodo.3730617)] that is used for producing figures by paper_figs.m software code (The data is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode))
+1) [ID18_postprandial.txt](https://github.com/NadicaSm/syEGG/blob/main/ID18_postprandial.txt) - sample data from the EGG database [[3](https://doi.org/10.1515/bmt-2017-0218)-[4](https://doi.org/10.5281/zenodo.3730617)] that is used for producing figures by paper_figs.m software code (The data is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode))
 
 ## Contacts
 N. Milenić ([nikolamilenic@gmail.com](mailto:nikolamilenic@gmail.com)) or N. Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
@@ -25,7 +25,9 @@ N. Miljković acknowledges the support from the grant No. 451-03-68/2022-14/2001
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
-1) Miljković, N., Milenić, N., Popović, B.N., Sodnik, J. (2023). Data-driven Method for Generating Synthetic Electrogastrogram Time Series. Preprint.
-2) Popović, N.B., Miljković, N. and Popović, M.B., 2019. Simple gastric motility assessment method with a single-channel electrogastrogram. Biomedical Engineering/Biomedizinische Technik, 64(2), pp.177-185, doi: [https://doi.org/10.1515/bmt-2017-0218](https://doi.org/10.1515/bmt-2017-0218).
-3) Popović, N.B., Miljković, N. and Popović, M.B., 2020. Three-channel surface electrogastrogram (EGG) dataset recorded during fasting and post-prandial states in 20 healthy individuals [Data set]. Zenodo, doi: [https://doi.org/10.5281/zenodo.3730617](https://doi.org/10.5281/zenodo.3730617).
+1) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. NadicaSm/syEGG: v1 (Version v1). Version v1. Zenodo. 
+2) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. Data-driven Method for Generating Synthetic Electrogastrogram Time Series. Preprint.
+3) Popović, N.B., Miljković, N. and Popović, M.B., 2019. Simple gastric motility assessment method with a single-channel electrogastrogram. Biomedical Engineering/Biomedizinische Technik, 64(2), pp.177-185, doi: [https://doi.org/10.1515/bmt-2017-0218](https://doi.org/10.1515/bmt-2017-0218).
+4) Popović, N.B., Miljković, N. and Popović, M.B., 2020. Three-channel surface electrogastrogram (EGG) dataset recorded during fasting and post-prandial states in 20 healthy individuals [Data set]. Zenodo, doi: [https://doi.org/10.5281/zenodo.3730617](https://doi.org/10.5281/zenodo.3730617).
+
 
