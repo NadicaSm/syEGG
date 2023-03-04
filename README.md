@@ -5,14 +5,11 @@ This repository contains GNU Octave code for the preprint paper titled "Data-dri
 This repository contains both sample data and [GNU Octave code](https://octave.org/), as well as [README.md](https://github.com/NadicaSm/syEGG/blob/main/README.md) and [license](https://github.com/NadicaSm/syEGG/blob/main/LICENSE) files.
 
 ### Code
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
 Please, report any bugs to the Authors listed in the Contacts.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
-
+The repository contains the following code:
 1) [syEGG.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG.m) - software code (GNU Octave function) that generates synthetic electrogastrogram (EGG) timeseries based on method described in [1] that is derived from parameters calculated on data available in [2-3])
 2) [syEGG_VR.m](https://github.com/NadicaSm/syEGG/blob/main/syEGG_VR.m) - software code (GNU Octave function) that generates altered EGG timeseries in the presence of simulator sickness, the method is fully described in [1]
 3) [paper_figs.m](https://github.com/NadicaSm/syEGG/blob/main/paper_figs.m) - software code (GNU Octave code) for reproducibility of figures presented in [1], it uses syEGG.m, syEGG_VR.m, and ID18_postprandial.txt
