@@ -25,7 +25,7 @@ N. Miljković acknowledges the support from the grant No. 451-03-68/2022-14/2001
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
-1) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. NadicaSm/syEGG: v1 (Version v1). Version v1. Zenodo. 
+1) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. [NadicaSm/syEGG](https://github.com/NadicaSm/): v1 (Version v1). Version v1. [Software code] Zenodo. 
 2) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. Data-driven Method for Generating Synthetic Electrogastrogram Time Series. Preprint.
 3) Popović, N.B., Miljković, N. and Popović, M.B., 2019. Simple gastric motility assessment method with a single-channel electrogastrogram. Biomedical Engineering/Biomedizinische Technik, 64(2), pp.177-185, doi: [https://doi.org/10.1515/bmt-2017-0218](https://doi.org/10.1515/bmt-2017-0218).
 4) Popović, N.B., Miljković, N. and Popović, M.B., 2020. Three-channel surface electrogastrogram (EGG) dataset recorded during fasting and post-prandial states in 20 healthy individuals [Data set]. Zenodo, doi: [https://doi.org/10.5281/zenodo.3730617](https://doi.org/10.5281/zenodo.3730617).
