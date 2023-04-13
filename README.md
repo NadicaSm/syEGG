@@ -1,5 +1,5 @@
 # syEGG
-This repository contains GNU Octave code for the preprint paper titled "[Data-driven Method for Generating Synthetic Electrogastrogram Time Series](https://arxiv.org/pdf/2303.02408.pdf)" Authored by Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)), Nikola Milenić (ORCiD: [0009-0004-7794-4795](https://orcid.org/0009-0004-7794-4795)), Nenad B. Popović (ORCiD: [0000-0002-5221-1446](https://orcid.org/0000-0002-5221-1446)), and Jaka Sodnik (ORCiD: [0000-0002-8915-9493](https://orcid.org/0000-0002-8915-9493))
+This repository contains GNU Octave code for the preprint paper titled "[Data-driven Method for Generating Synthetic Electrogastrogram Time Series](https://arxiv.org/pdf/2303.02408.pdf)" authored by Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)), Nikola Milenić (ORCiD: [0009-0004-7794-4795](https://orcid.org/0009-0004-7794-4795)), Nenad B. Popović (ORCiD: [0000-0002-5221-1446](https://orcid.org/0000-0002-5221-1446)), and Jaka Sodnik (ORCiD: [0000-0002-8915-9493](https://orcid.org/0000-0002-8915-9493))
 
 ## GitHub repository contents
 This repository contains both sample data and [GNU Octave code](https://octave.org/), as well as [README.md](https://github.com/NadicaSm/syEGG/blob/main/README.md) and [license](https://github.com/NadicaSm/syEGG/blob/main/LICENSE) files.
