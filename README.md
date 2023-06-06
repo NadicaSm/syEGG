@@ -21,7 +21,7 @@ The repository contains the following code:
 N. Milenić ([nikolamilenic@gmail.com](mailto:nikolamilenic@gmail.com)) or N. Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
 
 ## Funding
-N. Miljković acknowledges the support from the grant No. 451-03-68/2022-14/200103 funded by the Ministry of Education, Science, and Technological Development, Republic of Serbia. J. Sodnik acknowledges the support from Slovenian Research Agency under grant P2-0246.
+Nadica Miljković acknowledges the support from the grant No. 451-03-47/2023-01/200103 funded by the Ministry of Science, Technological Development and Innovation, Republic of Serbia. Jaka Sodnik acknowledges the support from Slovenian Research Agency under grant No. P2-0246. The Funders were not involved in the study design, collection, analysis, and interpretation of data; in the manuscript preparation; and in the decision to submit the manuscript.
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
