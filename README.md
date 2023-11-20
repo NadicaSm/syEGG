@@ -18,7 +18,7 @@ The repository contains the following code:
 1) [ID18_postprandial.txt](https://github.com/NadicaSm/syEGG/blob/main/ID18_postprandial.txt) - sample data from the EGG database [[3](https://doi.org/10.1515/bmt-2017-0218)-[4](https://doi.org/10.5281/zenodo.3730617)] that is used for producing figures by paper_figs.m software code (The data is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode))
 
 ## Contacts
-N. Milenić ([nikolamilenic@gmail.com](mailto:nikolamilenic@gmail.com)) or N. Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
+N. Milenić ([milenicnikola@gmail.com](mailto:milenicnikola@gmail.com)) or N. Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
 
 ## Funding
 Nadica Miljković acknowledges the support from the grant No. 451-03-47/2023-01/200103 funded by the Ministry of Science, Technological Development and Innovation, Republic of Serbia. Jaka Sodnik acknowledges the support from Slovenian Research Agency under grant No. P2-0246. The Funders were not involved in the study design, collection, analysis, and interpretation of data; in the manuscript preparation; and in the decision to submit the manuscript.
