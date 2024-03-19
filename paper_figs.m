@@ -1,8 +1,8 @@
 close all; clear all; clc;
 
-% This code produces Figures 1-4 for paper titled "Data-driven Method for 
-% Generating Synthetic Electrogastrogram Time Series" authored by Nadica
-% Miljkovi?, Nikola Mileni?, Nenad B. Popovi?, and Jaka Sodnik
+% This code produces Figures 1-4 for paper titled "Data Augmentation
+% for Generating Synthetic Electrogastrogram Time Series" authored by Nadica
+% Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik
 
 % The code uses syEGG.m and syEGG_VR.m functions to generate synthetic EGG 
 % signals and outputs three .jpg files with high resolution plots
