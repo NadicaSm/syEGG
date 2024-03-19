@@ -1,8 +1,8 @@
 function [signal, psd, df, br, wdf, wbr] = syEGG(T, fs, state, breathing, pl, set_seed, pauses, noise)
 % This GNU Octave code generates synthetic electrogastrogram (EGG) timeseries.
-% The realizaed method is in-detail presented in paper titled "Data-driven Method 
-% for Generating Synthetic Electrogastrogram Time Series" authored by 
-% Nadica Miljkovic, Nikola Milenic, Nenad B. Popovic, and Jaka Sodnik
+% The realizaed method is in-detail presented in paper titled "Data Augmentation 
+% for Generating Synthetic Electrogastrogram Time Series" authored by
+% Nadica Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik
 
 % [signal, psd, df, br, wdf, wbr] = syEGG(T, fs, state, breathing, pl, set_seed, pauses, noise)
 % produces generated EGG with the following input parameters:
@@ -26,7 +26,7 @@ function [signal, psd, df, br, wdf, wbr] = syEGG(T, fs, state, breathing, pl, se
 % The simplest way to generate EGG timeseries is to type
 % [signal, psd, df, br, wdf, wbr] = syEGG() in the Command Window
 
-% Contact: N. Milenic (nikolamilenic@gmail.com) or N. Miljkovic (nadica.miljkovic@etf.bg.ac.rs)
+% Contact: N. Milenić (nikolamilenic@gmail.com) or N. Miljković (nadica.miljkovic@etf.bg.ac.rs)
 
 % This program is free software: you can redistribute it and/or modify it under 
 % the terms of the GNU General Public License as published by the Free Software 
