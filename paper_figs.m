@@ -9,6 +9,22 @@ close all; clear all; clc;
 % The code uses syEGG.m and syEGG_VR.m functions to generate synthetic EGG 
 % signals and outputs 5 .tiff files with high resolution plots
 
+% Contact: N. Milenić (nikolamilenic@gmail.com) or N. Miljković (nadica.miljkovic@etf.bg.ac.rs)
+
+% This program is free software: you can redistribute it and/or modify it under 
+% the terms of the GNU General Public License as published by the Free Software 
+% Foundation, either version 3 of the License, or (at your option) any later version.
+
+% This program is distributed in the hope that it will be useful, but WITHOUT ANY
+% WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+% PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+% You should have received a copy of the GNU General Public License along with 
+% this program. If not, see <https://www.gnu.org/licenses/>. 
+
+% paper_figs.m is available on https://github.com/NadicaSm/syEGG - please report any 
+% bugs to the Authors listed in the Contacts.
+
 % load appropriate package
 pkg load signal
 
