@@ -1,9 +1,22 @@
-pkg load signal%, nan
+close all; clear all; clc;
 
-% load Octave packages
-%pkg load signal; pkg load io; pkg load nan; % comment if you use Matlab
+% This code examines breathing artifact for the paper titled "Data-driven 
+% Method for Generating Synthetic Electrogastrogram Time Series" authored 
+% by Nadica Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik
 
-%% dominant peak analysis
+% For running this code, please use electrogastrograms (EGG signals) from:
+% 1) Popović, N.B., Miljković, N. and Popović, M.B., 2019. Simple gastric 
+% motility assessment method with a single-channel electrogastrogram. 
+% Biomedical Engineering/Biomedizinische Technik, 64(2), pp.177-185
+% 2) Popović, N.B., Miljković, N. and Popović, M.B., 2020. Three-channel 
+% surface electrogastrogram (EGG) dataset recorded during fasting and 
+% post-prandial states in 20 healthy individuals [Data set]. Zenodo
+
+% Direct link to download EGG signals is:
+% https://zenodo.org/records/3878435/files/EGG-database.zip?download=1
+
+% load appropriate package
+pkg load signal
 
 % specify parameters
 fs = 2; % Hz, sampling frequency
@@ -11,12 +24,10 @@ fs = 2; % Hz, sampling frequency
 % bandpass filter for noise reduction
 [b, a] = butter(3, [0.03 0.6] / (fs / 2), 'bandpass');
 
-
 BR = [];
 
 for ind = 1 : 20
     % FASTING -------------------------------------------------------------
-
     % signal loading
     file_name = ['ID' num2str(ind) '_fasting.txt'];
     sample = load(file_name);
@@ -28,7 +39,6 @@ for ind = 1 : 20
     end
 
     % POSTPRANDIAL --------------------------------------------------------
-
     % signal loading
     file_name = ['ID' num2str(ind) '_postprandial.txt'];
     sample = load(file_name);
