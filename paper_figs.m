@@ -7,7 +7,7 @@ close all; clear all; clc;
 % Also, the code includes additional figures with Running Spectrum Analysis.
 
 % The code uses syEGG.m and syEGG_VR.m functions to generate synthetic EGG 
-% signals and outputs three .tiff files with high resolution plots
+% signals and outputs 5 .tiff files with high resolution plots
 
 % load appropriate package
 pkg load signal
