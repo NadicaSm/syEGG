@@ -2,7 +2,7 @@ close all; clear all; clc;
 % This GNU Octave code provides extensive analysis of applied Butterworth filter.
 % The realizaed method is in-detail presented in paper titled "Data Augmentation 
 % for Generating Synthetic Electrogastrogram Time Series" authored by 
-% Nadica Miljkovic, Nikola Milenic, Nenad B. Popovic, and Jaka Sodnik
+% Nadica Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik
 
 % Contact: N. Milenic (nikolamilenic@gmail.com) or N. Miljkovic (nadica.miljkovic@etf.bg.ac.rs)
 
@@ -24,7 +24,7 @@ close all; clear all; clc;
 pkg load signal;
 pkg load symbolic;
 
-% Define filter
+% Define filter parameters
 fs = 2;
 [b, a] = butter(3, [0.03/fs, 0.6/fs], 'bandpass');
 [h, f] = freqz(b, a, 2^10, Fs = fs);
