@@ -4,7 +4,7 @@ close all; clear all; clc;
 % for Generating Synthetic Electrogastrogram Time Series" authored by 
 % Nadica Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik
 
-% Contact: N. Milenic (nikolamilenic@gmail.com) or N. Miljkovic (nadica.miljkovic@etf.bg.ac.rs)
+% Contact: N. Milenić (nikolamilenic@gmail.com) or N. Miljković (nadica.miljkovic@etf.bg.ac.rs)
 
 % This program is free software: you can redistribute it and/or modify it under 
 % the terms of the GNU General Public License as published by the Free Software 
