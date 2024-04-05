@@ -25,6 +25,9 @@ N. Milenić ([milenicnikola@gmail.com](mailto:milenicnikola@gmail.com)) or N. Mi
 ## Funding
 Nadica Miljković acknowledges the support from the grant No. 451-03-65/2024-03/200103 funded by the Ministry of Science, Technological Development and Innovation, Republic of Serbia. Jaka Sodnik acknowledges the support from Slovenian Research Agency under grant No. P2-0246. The Funders were not involved in the study design, collection, analysis, and interpretation of data; in the manuscript preparation; and in the decision to submit the manuscript.
 
+## Acknowledgement
+We kindly thank Prof. Sašo Tomažič from Faculty of Electrical Engineering, University of Ljubljana for his valuable advises on signal processing methods.
+
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
 1) Miljković, N., Milenić, N., Popović, N.B., and Sodnik, J., 2023. [NadicaSm/syEGG](https://github.com/NadicaSm/): v1 (Version v1). Version v1. [Software code] Zenodo. [https://doi.org/10.5281/zenodo.7698446](https://doi.org/10.5281/zenodo.7698446)
